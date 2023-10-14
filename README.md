@@ -25,20 +25,25 @@ Install Bookmark Manager Application with npm
 
 2) Features Section
 
-![2](https://github.com/coder-himanshi/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/416e85e0-0982-4cf2-b6c5-f30419c45fbf)
+![2] ![image](https://github.com/Himanshi00123/codsofttask1/assets/147072566/16d75011-219b-4531-af02-78afddaa1dee)
+
 
 3) Card Section
 
-![3](https://github.com/coder-himanshi/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/31b5c382-29c9-4f35-9f5f-8fed5c9f5a88)
+![3] ![image](https://github.com/Himanshi00123/codsofttask1/assets/147072566/37bb2d5c-8068-4779-a601-3adfa402ab5b)
+
+
 
 4) FAQ Section
 
-![4](https://github.com/coder-himanshi/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/2b3dd725-e651-4ada-86fb-3bce4205317d)
+![4] ![image](https://github.com/Himanshi00123/codsofttask1/assets/147072566/fcae4ea1-0fe3-4d18-9a64-3fa41ddd388d)
+
 
 
 5) Footer Section 
 
-![5](https://github.com/coder-himanshi/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/2089cc06-a45f-452e-946d-e951c09ec1c0)
+![5]![image](https://github.com/Himanshi00123/codsofttask1/assets/147072566/7b4a061c-ee7f-4e15-a79e-62c6bf0cae3c)
+
 
 
 
