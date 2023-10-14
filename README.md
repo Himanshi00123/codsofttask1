@@ -20,7 +20,8 @@ Install Bookmark Manager Application with npm
 
 1)  Header Section 
 
-![1](https://github.com/coder-himanshi/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/8c9a36ed-1043-4118-abde-8a56fcdc77ba)
+![1]![image](https://github.com/Himanshi00123/codsofttask1/assets/147072566/64a69c36-91f8-49cc-b989-5290e8161033)
+
 
 2) Features Section
 
